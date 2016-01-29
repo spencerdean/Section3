@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserFileEditor", "UserFileEditor\UserFileEditor.csproj", "{36213B52-1920-4A87-844E-31292E9131D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserFileEditorTests.Tests", "UserFileEditorTests.Tests\UserFileEditorTests.Tests.csproj", "{16BCE2FB-2949-43F8-8567-222D2ECC3FAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36213B52-1920-4A87-844E-31292E9131D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36213B52-1920-4A87-844E-31292E9131D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36213B52-1920-4A87-844E-31292E9131D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36213B52-1920-4A87-844E-31292E9131D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16BCE2FB-2949-43F8-8567-222D2ECC3FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BCE2FB-2949-43F8-8567-222D2ECC3FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BCE2FB-2949-43F8-8567-222D2ECC3FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BCE2FB-2949-43F8-8567-222D2ECC3FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://steeleprojects.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = UserFileEditor\\UserFileEditor.csproj
+		SccProjectName1 = UserFileEditor
+		SccLocalPath1 = UserFileEditor
+		SccProjectUniqueName2 = UserFileEditorTests.Tests\\UserFileEditorTests.Tests.csproj
+		SccProjectName2 = UserFileEditorTests.Tests
+		SccLocalPath2 = UserFileEditorTests.Tests
+	EndGlobalSection
+EndGlobal

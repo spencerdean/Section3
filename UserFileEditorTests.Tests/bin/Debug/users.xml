@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Test XML Data-->
+<Users>
+  <User id="1">
+    <Username>ImBatman</Username>
+    <Password>BunBun</Password>
+    <DateOfBirth>10/10/1970</DateOfBirth>
+    <Name>
+      <Prefix>Mr</Prefix>
+      <FirstName>Bruce</FirstName>
+      <MiddleName>TheBatman</MiddleName>
+      <LastName>Wayne</LastName>
+      <Suffix></Suffix>
+    </Name>
+    <JobTitle>Dark Knight</JobTitle>
+  </User>
+  <User id="2">
+    <Username>Superman</Username>
+    <Password>BunBun1</Password>
+    <DateOfBirth>7/7/1960</DateOfBirth>
+    <Name>
+      <Prefix>Mr</Prefix>
+      <FirstName>Clark</FirstName>
+      <MiddleName>Kal-El</MiddleName>
+      <LastName>Kent</LastName>
+      <Suffix></Suffix>
+    </Name>
+    <JobTitle>Journalist</JobTitle>
+  </User>
+  <User id="3">
+    <Username>Starlord</Username>
+    <Password>BunBun2</Password>
+    <DateOfBirth>5/5/1975</DateOfBirth>
+    <Name>
+      <Prefix>Mr</Prefix>
+      <FirstName>Peter</FirstName>
+      <MiddleName></MiddleName>
+      <LastName>Quill</LastName>
+      <Suffix></Suffix>
+    </Name>
+    <JobTitle>Gaurdian of the Galaxy</JobTitle>
+  </User>
+</Users>

@@ -1,0 +1,6 @@
+c:\users\spencer.dean\documents\visual studio 2015\Projects\UserFileEditor\UserFileEditor\bin\Debug\UserFileEditor.exe.config
+C:\Users\spencer.dean\Documents\Visual Studio 2015\Projects\UserFileEditor\UserFileEditor\bin\Debug\UserFileEditor.exe
+C:\Users\spencer.dean\Documents\Visual Studio 2015\Projects\UserFileEditor\UserFileEditor\bin\Debug\UserFileEditor.pdb
+C:\Users\spencer.dean\Documents\Visual Studio 2015\Projects\UserFileEditor\UserFileEditor\obj\Debug\UserFileEditor.exe
+C:\Users\spencer.dean\Documents\Visual Studio 2015\Projects\UserFileEditor\UserFileEditor\obj\Debug\UserFileEditor.pdb
+C:\Users\spencer.dean\Documents\Visual Studio 2015\Projects\UserFileEditor\UserFileEditor\obj\Debug\UserFileEditor.csprojResolveAssemblyReference.cache

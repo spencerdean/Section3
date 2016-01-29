@@ -1,0 +1,87 @@
+Method: (line 29)
+public UserFile()
+
+
+                        /* //line 48
+                        foreach (var d in docElements)
+                        {
+                            User userName = new User();
+                            XElement nameElement = d.Element("Name").IsValidOrDefault();
+
+                            d.Attribute("id").CheckForNull(); // check if value is null before assigning it
+                            userName.Id = d.Attribute("id").Value;
+
+                            nameElement.Element("Prefix").IsValidOrDefault(); // check if value is null before assigning it
+                            userName.Prefix = nameElement.Element("Prefix").Value;
+
+                            nameElement.Element("FirstName").IsValidOrDefault();  // check if value is null before assigning it
+                            userName.FirstName = nameElement.Element("FirstName").Value;
+
+                            nameElement.Element("MiddleName").IsValidOrDefault();  // check if value is null before assigning it
+                            userName.MiddleName = nameElement.Element("MiddleName").Value;
+
+                            nameElement.Element("LastName").IsValidOrDefault();  // check if value is null before assigning it
+                            userName.LastName = nameElement.Element("LastName").Value;
+
+                            nameElement.Element("Suffix").IsValidOrDefault();  // check if value is null before assigning it
+                            userName.Suffix = nameElement.Element("Suffix").Value;
+
+                            d.Element("Username").IsValidOrDefault();  // check if value is null before assigning it
+                            userName.Username = d.Element("Username").Value;
+
+                            d.Element("Password").IsValidOrDefault();  // check if value is null before assigning it
+                            userName.Password = d.Element("Password").Value;
+
+                            d.Element("DateOfBirth").IsValidOrDefault();  // check if value is null before assigning it (checking when it is a string, before converting)
+                            userName.DateOfBirth = DateTime.Parse(d.Element("DateOfBirth").Value);
+
+                            d.Element("JobTitle").IsValidOrDefault();  // check if value is null before assigning it
+                            userName.JobTitle = d.Element("JobTitle").Value;
+
+                            userList.Add(userName); //add user to our list of users
+                                                    //Console.WriteLine(userList.Count()); //used for testing. Make sure all Users are being added to the list
+                        } line 86 */                
+				
+				
+				
+				
+				/* Line 105
+                foreach (var d in docElements)
+                {
+                    User userName = new User();
+
+                    XElement nameElement = d.Element("Name").IsValidOrDefault();
+
+                    d.Attribute("id").CheckForNull(); // check if value is null before assigning it
+                    userName.Id = d.Attribute("id").Value; // not null - assign value
+
+                    nameElement.Element("Prefix").IsValidOrDefault(); // check if value is null before assigning it
+                    userName.Prefix = nameElement.Element("Prefix").Value; // not null - assign value
+
+                    nameElement.Element("FirstName").IsValidOrDefault();  // check if value is null before assigning it
+                    userName.FirstName = nameElement.Element("FirstName").Value; // not null - assign value
+
+                    nameElement.Element("MiddleName").IsValidOrDefault();  // check if value is null before assigning it
+                    userName.MiddleName = nameElement.Element("MiddleName").Value; // not null - assign value
+
+                    nameElement.Element("LastName").IsValidOrDefault();  // check if value is null before assigning it
+                    userName.LastName = nameElement.Element("LastName").Value; // not null - assign value
+
+                    nameElement.Element("Suffix").IsValidOrDefault();  // check if value is null before assigning it
+                    userName.Suffix = nameElement.Element("Suffix").Value; // not null - assign value
+
+                    d.Element("Username").IsValidOrDefault();  // check if value is null before assigning it
+                    userName.Username = d.Element("Username").Value; // not null - assign value
+
+                    d.Element("Password").IsValidOrDefault();  // check if value is null before assigning it
+                    userName.Password = d.Element("Password").Value; // not null - assign value
+
+                    d.Element("DateOfBirth").IsValidOrDefault();  // check if value is null before assigning it (checking when it is a string, before converting)
+                    userName.DateOfBirth = DateTime.Parse(d.Element("DateOfBirth").Value); // not null - assign value & do the conversion
+
+                    d.Element("JobTitle").IsValidOrDefault();  // check if value is null before assigning it
+                    userName.JobTitle = d.Element("JobTitle").Value; // not null - assign value
+
+                    userList.Add(userName); //add user to our list of users
+                    //Console.WriteLine(userList.Count()); //used for testing. Make sure all Users are being added to the list
+                } line 144 */

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--users xml file-->
+<Users>
+  <User id="1">
+    <Username>TavenerD</Username>
+    <Password>BunBun</Password>
+    <DateOfBirth>9/9/1968</DateOfBirth>
+    <Name>
+      <Prefix>Mr</Prefix>
+      <FirstName>Raymond</FirstName>
+      <MiddleName>David</MiddleName>
+      <LastName>Tavener</LastName>
+      <Suffix>BS</Suffix>
+    </Name>
+    <JobTitle>Senior Software Developer</JobTitle>
+  </User>
+  <User id="2">
+    <Username>BlessingN</Username>
+    <Password>BunBun1</Password>
+    <DateOfBirth>8/8/1990</DateOfBirth>
+    <Name>
+      <Prefix>Mrs</Prefix>
+      <FirstName>Nathan</FirstName>
+      <MiddleName>RobinHood</MiddleName>
+      <LastName>Blessing</LastName>
+      <Suffix></Suffix>
+    </Name>
+    <JobTitle>Software Engineer</JobTitle>
+  </User>
+  <User id="3">
+    <Username>WilmsE</Username>
+    <Password>BunBun2</Password>
+    <DateOfBirth>7/7/1977</DateOfBirth>
+    <Name>
+      <Prefix>Mr</Prefix>
+      <FirstName>Eric</FirstName>
+      <MiddleName>BunBun</MiddleName>
+      <LastName>Wilms</LastName>
+      <Suffix>BS</Suffix>
+    </Name>
+    <JobTitle>Manager, Software Product Engineer</JobTitle>
+  </User>
+  <User id="4">
+    <Username>HerbertA</Username>
+    <Password>BunBun3</Password>
+    <DateOfBirth>6/6/1988</DateOfBirth>
+    <Name>
+      <Prefix>Mrs</Prefix>
+      <FirstName>Anne</FirstName>
+      <MiddleName>The Mean</MiddleName>
+      <LastName>Herbert</LastName>
+      <Suffix>BS</Suffix>
+    </Name>
+    <JobTitle>Software Engineer</JobTitle>
+  </User>
+  <User id="5">
+    <Username>DeanS</Username>
+    <Password>BunBun4</Password>
+    <DateOfBirth>6/19/1992</DateOfBirth>
+    <Name>
+      <Prefix>Mr</Prefix>
+      <FirstName>Spencer</FirstName>
+      <MiddleName>Steele</MiddleName>
+      <LastName>Dean</LastName>
+      <Suffix></Suffix>
+    </Name>
+    <JobTitle>Software Development Co-Op</JobTitle>
+  </User>
+</Users>

@@ -1,0 +1,8 @@
+C:\Users\spencer.dean\Documents\Visual Studio 2015\Projects\UserFileEditor\UserFileEditorTests.Tests\bin\Debug\UserFileEditorTests.Tests.dll
+C:\Users\spencer.dean\Documents\Visual Studio 2015\Projects\UserFileEditor\UserFileEditorTests.Tests\bin\Debug\UserFileEditorTests.Tests.pdb
+C:\Users\spencer.dean\Documents\Visual Studio 2015\Projects\UserFileEditor\UserFileEditorTests.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\spencer.dean\Documents\Visual Studio 2015\Projects\UserFileEditor\UserFileEditorTests.Tests\bin\Debug\UserFileEditor.exe
+C:\Users\spencer.dean\Documents\Visual Studio 2015\Projects\UserFileEditor\UserFileEditorTests.Tests\bin\Debug\UserFileEditor.pdb
+C:\Users\spencer.dean\Documents\Visual Studio 2015\Projects\UserFileEditor\UserFileEditorTests.Tests\obj\Debug\UserFileEditorTests.Tests.csprojResolveAssemblyReference.cache
+C:\Users\spencer.dean\Documents\Visual Studio 2015\Projects\UserFileEditor\UserFileEditorTests.Tests\obj\Debug\UserFileEditorTests.Tests.dll
+C:\Users\spencer.dean\Documents\Visual Studio 2015\Projects\UserFileEditor\UserFileEditorTests.Tests\obj\Debug\UserFileEditorTests.Tests.pdb
